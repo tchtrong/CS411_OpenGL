@@ -153,23 +153,15 @@
     <ClCompile Include="Square.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BoundingBox.h" />
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Elipse.h" />
     <ClInclude Include="Line.h" />
-    <ClInclude Include="LucGiacDeu.h" />
     <ClInclude Include="Matrix.h" />
-    <ClInclude Include="NguGiacDeu.h" />
-    <ClInclude Include="Parabola.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="RegularPolygon.h" />
     <ClInclude Include="Shape.h" />
-    <ClInclude Include="ShapeFactory.h" />
     <ClInclude Include="Square.h" />
-    <ClInclude Include="Star.h" />
-    <ClInclude Include="TamGiacDeu.h" />
-    <ClInclude Include="TamGiacVC.h" />
     <ClInclude Include="Transformation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
